@@ -31,7 +31,7 @@ const AddAData = () => {
           Swal.fire({
             position: "top-end",
             icon: "success",
-            title: "Your toy has been added",
+            title: "Your data has been added",
             showConfirmButton: false,
             timer: 1500,
           });

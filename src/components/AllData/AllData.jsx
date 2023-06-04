@@ -49,7 +49,7 @@ const AllData = () => {
   return (
     <div className="md:mx-20">
       <h2 className="text-5xl my-3 text-center font-bold">
-        All Toys Length: {allData.length}
+        All Data Length: {allData.length}
       </h2>
       <div className="overflow-x-auto w-full">
         <table className="table w-full">
